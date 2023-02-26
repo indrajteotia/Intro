@@ -1,0 +1,15 @@
+html{
+    height: 100%;
+}
+
+body{
+    background: url("../images/background.jpg");
+    backdrop-filter: blur(5px);
+}
+
+.top_links{
+    font-size: medium;
+    color: blanchedalmond;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
